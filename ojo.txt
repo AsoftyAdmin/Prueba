@@ -1,0 +1,29 @@
+Nomina AsoftyWeb
+
+* Incapacidades verificar formulas y pago de auxilio de transporte
+* dias de incapacidad dejar abierto los campos para digitar
+* compensacion extraordinaria no calcula con los dias de incapacidad
+* Vacaciones verificar formula
+* dias liquidados son calendario
+* Anticipo de operaciones y control de cupo credito
+* vacaciones en la nomina descuento de seguridad social
+* liquidacion de prestaciones sociales validar procedimiento
+* Formatos de impresion nomina, liquidacion
+* Nomina electronica un solo proceso para envio
+* licencia no remuneradas
+* Comisiones por utlidad
+* cargue de comision automatica
+* salario ingtegral
+* retencion en la fuente
+
+https://www.fincaraiz.com.co/inmueble/apartamento-en-arriendo/tintala/bogota/7556825
+https://www.fincaraiz.com.co/inmueble/apartamento-en-arriendo/bosques-de-castilla/bogota/7334317
+https://www.fincaraiz.com.co/inmueble/apartamento-en-arriendo/nueva-castilla/bogota/7550208
+https://www.fincaraiz.com.co/apartamentos/arriendos/bogota?precioHasta=1100000&habitaciones=3&ba%C3%B1os=2&parqueaderos=1&pagina=2
+
+Carolina -> direccion.operaciones@transintercargo.com
+Lorena -> direccion.comercial@transintercargo.com
+David -> System.engineer@transintercargo.com
+
+ 
+ 
