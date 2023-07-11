@@ -25,5 +25,13 @@ Carolina -> direccion.operaciones@transintercargo.com
 Lorena -> direccion.comercial@transintercargo.com
 David -> System.engineer@transintercargo.com
 
+Carolina -> direccion.operaciones@transintercargo.com
+Lorena -> direccion.comercial@transintercargo.com
+David -> System.engineer@transintercargo.com
+
+Carolina -> direccion.operaciones@transintercargo.com
+Lorena -> direccion.comercial@transintercargo.com
+David -> System.engineer@transintercargo.com
+
  
  
